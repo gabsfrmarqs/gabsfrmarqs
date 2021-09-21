@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Marques
 - 👀 I’m interested in learning programming in Python and C++ (for now).
 - 🌱 I’m currently learning Computer Science at Mackenzie Presbyterian University.
-- 💞️ I’m here basically to post some simple programs that I have to do as "homework".
+- 💞️ I’m here basically to post some simple programs that I have to do as "homework" (and learn how to use this goddamn website)
 - 📫 How to reach me: by e-mail: gabrielfrmarques@outlook.com
 
 <!---
