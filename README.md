@@ -1,7 +1,7 @@
-# Hiya! :D
-i'm gabs, from Brazil!
+# 👋 Hiya, I’m Gabs
+- 👀 I’m interested in learning reverse engineering using Ghidra for now.
+- 🌱 I’m currently learning Computer Science Working as DevOps intern.
+- 💞️ Basically just posting personal projects or college homework
+- 📫 You can reach me by e-mail: ``marquesgabriel03@outlook.com``
 
-<!---
-gabsfrmarqs/gabsfrmarqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Some Skills](https://skillicons.dev/icons?i=angular,arduino,bash,c,cpp,cloudflare,debian,docker,git,html,java,linux,nginx,notion,powershell,py,raspberrypi,ts,vim,vscode)](https://skillicons.dev)
